@@ -1,7 +1,7 @@
 
 ### **GitHub Profile Description**.
 
-💻 **Full Stack Developer | Software Architecture**  
+💻 **Technical Lead | Software Architect | Backend Specialist | Full Stack Developer | DevOps | Cloud Computing**  
 📚 **Passionate about technology, creativity and continuous learning**.  
 
 Welcome to my space on GitHub, where I combine my skills in **TypeScript, NestJS, ReactJS, Node.js** and efficient system design to create robust and scalable solutions. I specialize in following principles like **SOLID**, **clean code** and best practices to ensure quality in every project.
