@@ -24,6 +24,6 @@ Welcome to my space on GitHub, where I combine my skills in **TypeScript, NestJS
 ### **Want to collaborate**.  
 I am open to new ideas and projects. If you have interest in contributing or exchanging ideas, let's talk!  
 
-📫 **Contact me**: [LinkedIn]( www.linkedin.com/in/manuel-giovanni-cortazar-de-la-cruz-giozar04)
+📫 **Contact me**: [www.linkedin.com/in/manuel-giovanni-cortazar-de-la-cruz-giozar04]
 
 ---
